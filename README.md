@@ -3,7 +3,7 @@
 Kurulum:
 ```bash
 git clone https://github.com/proaizen792-blip/Dark-tool
-termux-setup-storage
 cd Dark-tool
 chmod +x install.sh
 ./install.sh
+termux-setup-storage
